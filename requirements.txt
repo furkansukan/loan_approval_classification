@@ -1,5 +1,4 @@
 joblib
-pickle
 numpy
 pandas
 seaborn
